@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431571815 source:c:\users\ghj\google drive\univali\2015-1\grafos\trabalhom2\trabalhom2\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
